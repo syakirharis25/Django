@@ -16,10 +16,8 @@ Django is a Python-based free and open-source web framework, which follows the m
 Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and "pluggability" of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
 <br /><br />
 Django was created in the fall of 2003, when the web programmers at the Lawrence Journal-World newspaper, Adrian Holovaty and Simon Willison, began using Python to build applications. Jacob Kaplan-Moss was hired early in Django's development shortly before Simon Willison's internship ended. It was released publicly under a BSD license in July 2005. The framework was named after guitarist Django Reinhardt.
-
-In June 2008, it was announced that a newly formed Django Software Foundation (DSF) would maintain Django in the future.[18]
-
-In July 2015, Revolution Systems, a software consulting company connected to some Django co-founders and developers, hosted 10th anniversary events in Lawrence.[19]
+<br /><br />
+In June 2008, it was announced that a newly formed Django Software Foundation (DSF) would maintain Django in the future. In July 2015, Revolution Systems, a software consulting company connected to some Django co-founders and developers, hosted 10th anniversary events in Lawrence.
 
 <a name="references"></a>
 ## 2. Official references websites. 
