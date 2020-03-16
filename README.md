@@ -25,7 +25,8 @@ Django official website : https://www.djangoproject.com <br />
 
 <a name="developers"></a>
 ## 3. Django developers.
-[ draft ]
+Adrian Holovaty : https://github.com/adrianholovaty, https://twitter.com/adrianholovaty <br />
+Simon Willison : https://github.com/simonw, https://twitter.com/simonw <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
